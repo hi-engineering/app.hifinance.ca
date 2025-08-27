@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ca.hifinance.hi-app",
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  }
+}

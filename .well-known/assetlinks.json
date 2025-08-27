@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.hifinance.hiapp",
+      "sha256_cert_fingerprints": [
+        "8D:9B:FE:F6:27:72:2D:8B:E9:BB:03:49:62:8D:89:C3:04:F4:F8:BB:12:0D:B4:1D:AE:80:DE:45:CB:D8:69:41"
+      ]
+    }
+  }
+]
