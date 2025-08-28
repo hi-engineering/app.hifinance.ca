@@ -3,9 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "ca.hifinance.hi-app",
+        "appID": "G227WH4A2F.ca.hifinance.hi-app",
         "paths": [
-          "/*"
+          "/authed/*",
+          "/login/*"
         ]
       }
     ]
