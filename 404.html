@@ -1,11 +1,9 @@
----
-permalink: /404.html
----
-
 <html>
     <head>
         <title>Hi Finance</title>
-        <meta name="apple-itunes-app" content="app-id=ca.hifinance.hi-app">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="apple-itunes-app" content="app-id=ca.hifinance.hi-app, app-argument=https://app.hifinance.ca">
         <meta name="google-play-app" content="app-id=ca.hifinance.hiapp">
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -55,6 +53,24 @@ h1 {
     font-size: 75px;
     padding: 0;
     margin: 0;
+}
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 50px;
+    }
+
+    .button {
+        width: 250px;
+        padding: 15px;
+        font-size: 18px;
+    }
+
+    body {
+        padding: 20px;
+        gap: 20px;
+    }
 }
 
 a:link {
