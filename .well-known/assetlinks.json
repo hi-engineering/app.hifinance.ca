@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "ca.hifinance.hiapp",
       "sha256_cert_fingerprints": [
-        "8D:9B:FE:F6:27:72:2D:8B:E9:BB:03:49:62:8D:89:C3:04:F4:F8:BB:12:0D:B4:1D:AE:80:DE:45:CB:D8:69:41"
+        "8D:9B:FE:F6:27:72:2D:8B:E9:BB:03:49:62:8D:89:C3:04:F4:F8:BB:12:0D:B4:1D:AE:80:DE:45:CB:D8:69:41",
+        "0C:92:F5:87:F2:6C:B6:8C:E6:46:B4:52:91:F8:D1:6A:04:EC:4F:32:21:7A:D4:92:2F:4E:E9:B2:DF:87:7B:19"
       ]
     }
   }
