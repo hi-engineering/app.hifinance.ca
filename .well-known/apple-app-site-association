@@ -6,7 +6,8 @@
         "appID": "G227WH4A2F.ca.hifinance.hi-app",
         "paths": [
           "/authed/*",
-          "/login/*"
+          "/login/*",
+          "/buttons/*"
         ]
       }
     ]
